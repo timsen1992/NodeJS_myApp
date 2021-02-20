@@ -1,0 +1,15 @@
+doctype html
+html
+    head
+        title execution
+        script(src='/javascripts/jquery-3.5.1.js')
+        script(src='/javascripts/communication.js')
+    body
+        h1 execution page
+        div
+            form#input type command here:
+                input#command(type='text')
+                input#run(type='submit')
+        br
+        p you ran command:
+        div#result
