@@ -1,7 +1,7 @@
 # Usage Guide
 
 ## set up an run project
-git init
+git init <br>
 git pull https://github.com/timsen1992/NodeJS_myApp <br>
 npm install <br>
 npm start <br>
